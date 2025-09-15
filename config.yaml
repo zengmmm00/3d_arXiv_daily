@@ -1,9 +1,9 @@
 # basic info
-user_name: "Bai Shuanghao"
+user_name: "zengmmm00"
 repo_name: "cv-arxiv-daily"
 
 show_badge: false
-max_results: 50
+max_results: 10
 
 publish_readme: true
 publish_gitpage: true
