@@ -20,16 +20,18 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords
 keywords:
-  "Robot & Agent":
-    filters: ["Embodied Agent", "Robot Learning", "Robot Policy", "Robot Policies", "Human-Robot", "Cross-Embodiment"]
-  "Robotic Manipulation":
-    filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp", "Robot Grasp", "World Model"]
-  "Vision Language Action Model":
-    filters: ["Vision-Language-Action Model", "Vision Language Action Model"]
-  "Imitation Learning":
-    filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
-  "Robotic Navigation":
-    filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
+  "3D Generation":
+    filters: ["3d assets generation", "mesh generation"]
+  # "Robot & Agent":
+  #   filters: ["Embodied Agent", "Robot Learning", "Robot Policy", "Robot Policies", "Human-Robot", "Cross-Embodiment"]
+  # "Robotic Manipulation":
+  #   filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp", "Robot Grasp", "World Model"]
+  # "Vision Language Action Model":
+  #   filters: ["Vision-Language-Action Model", "Vision Language Action Model"]
+  # "Imitation Learning":
+  #   filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
+  # "Robotic Navigation":
+  #   filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
 #   "DA & DG":
 #     filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
 #       "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
