@@ -1,4 +1,4 @@
-## Updated on 2025.11.02
+## Updated on 2025.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,7 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-30**|**A two-dimensional fractional-order element-free Galerkin method for nonlocal elasticity and complex domain problems**|Shubham Desai et.al.|[2510.26161](https://arxiv.org/abs/2510.26161)|null|
+|**2025-10-30**|**A two-dimensional fractional-order element-free Galerkin method for nonlocal elasticity and complex domain problems**|Shubham Desai et.al.|[2510.26161](https://arxiv.org/abs/2510.26161)|**[link](https://github.com/JiamingZang/DailyArxiv)**|
 |**2025-10-29**|**EA3D: Online Open-World 3D Object Extraction from Streaming Videos**|Xiaoyu Zhou et.al.|[2510.25146](https://arxiv.org/abs/2510.25146)|**[link](https://github.com/VDIGPKU/EA3D)**|
 |**2025-10-23**|**Comparative Analysis of Procedural Planet Generators**|Manuel Zechmann et.al.|[2510.24764](https://arxiv.org/abs/2510.24764)|null|
 |**2025-10-26**|**TVMC: Time-Varying Mesh Compression via Multi-Stage Anchor Mesh Generation**|He Huang et.al.|[2510.22646](https://arxiv.org/abs/2510.22646)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
@@ -21,31 +21,31 @@
 |**2025-10-10**|**Simultaneous Multi-Scale Homogeneous H-Phi Thin-Shell Model for Efficient Simulations of Stacked HTS Coils**|Louis Denis et.al.|[2510.09122](https://arxiv.org/abs/2510.09122)|null|
 |**2025-10-09**|**Generating Sizing Fields for Mesh Generation via GCN-based Simplification of Adaptive Background Grids**|Xunyang Zhu et.al.|[2510.08645](https://arxiv.org/abs/2510.08645)|null|
 |**2025-10-06**|**Comprehensive Numerical Hydrodynamic Analysis of Submarine in a Straight Course Simulation Using Wall-Resolved RANS Models**|Noh Zainal Abidin et.al.|[2510.04911](https://arxiv.org/abs/2510.04911)|null|
-|**2025-09-29**|**UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation**|Guanjun Wu et.al.|[2509.25079](https://arxiv.org/abs/2509.25079)|**[link](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)**|
+|**2025-09-29**|**UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation**|Guanjun Wu et.al.|[2509.25079](https://arxiv.org/abs/2509.25079)|**[link](https://github.com/UniLat3D/UniLat3D)**|
 |**2025-09-25**|**QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models**|Jian Liu et.al.|[2509.21420](https://arxiv.org/abs/2509.21420)|null|
 |**2025-09-25**|**Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets**|Team Hunyuan3D et.al.|[2509.21245](https://arxiv.org/abs/2509.21245)|**[link](https://huggingface.co/models/tencent/Hunyuan3D-Omni)**|
 |**2025-09-25**|**ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction**|Jiabao Lei et.al.|[2509.20824](https://arxiv.org/abs/2509.20824)|**[link](https://github.com/ChaoyueSong/Awesome-Auto-Regressive-in-GenerativeAI)**|
 |**2025-09-24**|**MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly**|Rui Xu et.al.|[2509.19995](https://arxiv.org/abs/2509.19995)|**[link](https://github.com/Xrvitd/MeshMosaic)**|
 |**2025-09-17**|**StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance**|Zefan Qu et.al.|[2509.13301](https://arxiv.org/abs/2509.13301)|**[link](https://github.com/quzefan/StyleSculptor)**|
-|**2025-09-16**|**Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation**|Biwen Lei et.al.|[2509.12815](https://arxiv.org/abs/2509.12815)|null|
+|**2025-09-16**|**Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation**|Biwen Lei et.al.|[2509.12815](https://arxiv.org/abs/2509.12815)|**[link](https://github.com/yyeboah/Awesome-Text-to-3D)**|
 |**2025-09-15**|**Artist-Created Mesh Generation from Raw Observation**|Yao He et.al.|[2509.12501](https://arxiv.org/abs/2509.12501)|null|
-|**2025-09-09**|**DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation**|Ze-Xin Yin et.al.|[2509.07435](https://arxiv.org/abs/2509.07435)|**[link](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)**|
+|**2025-09-09**|**DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation**|Ze-Xin Yin et.al.|[2509.07435](https://arxiv.org/abs/2509.07435)|**[link](https://github.com/ZX-Yin/DreamLifting)**|
 |**2025-09-28**|**3D-LATTE: Latent Space 3D Editing from Textual Instructions**|Maria Parelli et.al.|[2509.00269](https://arxiv.org/abs/2509.00269)|**[link](https://github.com/EricLee0224/awesome-nerf-editing)**|
 |**2025-08-28**|**Droplet3D: Commonsense Priors from Videos Facilitate 3D Generation**|Xiaochuan Li et.al.|[2508.20470](https://arxiv.org/abs/2508.20470)|**[link](https://huggingface.co/models/DropletX/Droplet3D-5B)**|
 |**2025-08-27**|**Multimodal Conditional MeshGAN for Personalized Aneurysm Growth Prediction**|Long Chen et.al.|[2508.19862](https://arxiv.org/abs/2508.19862)|**[link](https://github.com/ImperialCollegeLondon/MCMeshGAN)**|
 |**2025-08-27**|**FastMesh: Efficient Artistic Mesh Generation via Component Decoupling**|Jeonghwan Kim et.al.|[2508.19188](https://arxiv.org/abs/2508.19188)|**[link](https://github.com/jhkim0759/FastMesh)**|
-|**2025-08-15**|**Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features**|Yanpeng Gong et.al.|[2508.11410](https://arxiv.org/abs/2508.11410)|null|
-|**2025-08-12**|**VertexRegen: Mesh Generation with Continuous Level of Detail**|Xiang Zhang et.al.|[2508.09062](https://arxiv.org/abs/2508.09062)|null|
-|**2025-07-11**|**When surface evolution meets Fokker-Planck equation: a novel tangential velocity model for uniform parametrization**|Jiangong Pan et.al.|[2508.02676](https://arxiv.org/abs/2508.02676)|**[link](https://github.com/Poker-Pan/EMSL-SE)**|
-|**2025-08-05**|**MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh**|Shuangkang Fang et.al.|[2508.01242](https://arxiv.org/abs/2508.01242)|null|
-|**2025-08-06**|**XSpecMesh: Quality-Preserving Auto-Regressive Mesh Generation Acceleration via Multi-Head Speculative Decoding**|Dian Chen et.al.|[2507.23777](https://arxiv.org/abs/2507.23777)|**[link](https://github.com/CD-link/XSpecMesh)**|
+|**2025-08-15**|**Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features**|Yanpeng Gong et.al.|[2508.11410](https://arxiv.org/abs/2508.11410)|**[link](https://github.com/yanpeng-gong/VEM-electronic-packaging)**|
+|**2025-08-12**|**VertexRegen: Mesh Generation with Continuous Level of Detail**|Xiang Zhang et.al.|[2508.09062](https://arxiv.org/abs/2508.09062)|**[link](https://github.com/52CV/ICCV-2025-Papers)**|
+|**2025-07-11**|**When surface evolution meets Fokker-Planck equation: a novel tangential velocity model for uniform parametrization**|Jiangong Pan et.al.|[2508.02676](https://arxiv.org/abs/2508.02676)|null|
+|**2025-08-05**|**MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh**|Shuangkang Fang et.al.|[2508.01242](https://arxiv.org/abs/2508.01242)|**[link](https://github.com/Fangkang515/MeshLLM)**|
+|**2025-08-06**|**XSpecMesh: Quality-Preserving Auto-Regressive Mesh Generation Acceleration via Multi-Head Speculative Decoding**|Dian Chen et.al.|[2507.23777](https://arxiv.org/abs/2507.23777)|**[link](https://github.com/ChaoyueSong/Awesome-Auto-Regressive-in-GenerativeAI)**|
 |**2025-07-23**|**A Scientist Question: Research on the Impact of Super Structured Quadrilateral Meshes on Convergence and Accuracy of Finite Element Analysis**|Hui Zhao et.al.|[2507.17184](https://arxiv.org/abs/2507.17184)|null|
-|**2025-07-21**|**MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction**|Yusuke Yoshiyasu et.al.|[2507.15212](https://arxiv.org/abs/2507.15212)|**[link](https://github.com/XiudingCai/Awesome-Mamba-Collection)**|
-|**2025-07-20**|**Towards Geometric and Textural Consistency 3D Scene Generation via Single Image-guided Model Generation and Layout Optimization**|Xiang Tang et.al.|[2507.14841](https://arxiv.org/abs/2507.14841)|**[link](https://github.com/ALEEEHU/World-Simulator)**|
-|**2025-07-23**|**Adaptive feature capture method for solving partial differential equations with near singular solutions**|Yangtao Deng et.al.|[2507.12941](https://arxiv.org/abs/2507.12941)|**[link](https://github.com/gauravfs-14/awesome-pinns)**|
+|**2025-07-21**|**MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction**|Yusuke Yoshiyasu et.al.|[2507.15212](https://arxiv.org/abs/2507.15212)|null|
+|**2025-07-20**|**Towards Geometric and Textural Consistency 3D Scene Generation via Single Image-guided Model Generation and Layout Optimization**|Xiang Tang et.al.|[2507.14841](https://arxiv.org/abs/2507.14841)|null|
+|**2025-07-23**|**Adaptive feature capture method for solving partial differential equations with near singular solutions**|Yangtao Deng et.al.|[2507.12941](https://arxiv.org/abs/2507.12941)|null|
 |**2025-07-20**|**PhysX-3D: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](https://arxiv.org/abs/2507.12465)|**[link](https://huggingface.co/datasets/Caoza/PhysX-3D)**|
 |**2025-07-14**|**4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**|Shanshan Zhong et.al.|[2507.10437](https://arxiv.org/abs/2507.10437)|**[link](https://huggingface.co/datasets/zhongshsh/4D-Animal)**|
-|**2025-07-04**|**Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk**|Gaochao Song et.al.|[2507.02477](https://arxiv.org/abs/2507.02477)|**[link](https://github.com/gaochao-s/Mesh-Silksong)**|
+|**2025-07-04**|**Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk**|Gaochao Song et.al.|[2507.02477](https://arxiv.org/abs/2507.02477)|**[link](https://github.com/ChaoyueSong/Awesome-Auto-Regressive-in-GenerativeAI)**|
 |**2025-06-28**|**Loop2Net: Data-Driven Generation and Optimization of Airfoil CFD Meshes from Sparse Boundary Coordinates**|Lushun Fan et.al.|[2507.01057](https://arxiv.org/abs/2507.01057)|null|
 |**2025-06-30**|**TextMesh4D: High-Quality Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121](https://arxiv.org/abs/2506.24121)|**[link](https://github.com/Xuchen-Li/llm-arxiv-daily)**|
 |**2025-06-21**|**PhysID: Physics-based Interactive Dynamics from a Single-view Image**|Sourabh Vasant Gothe et.al.|[2506.17746](https://arxiv.org/abs/2506.17746)|null|
@@ -64,10 +64,10 @@
 |**2025-05-19**|**FreeMesh: Boosting Mesh Generation with Coordinates Merging**|Jian Liu et.al.|[2505.13573](https://arxiv.org/abs/2505.13573)|**[link](https://github.com/BunnySoCrazy/Awesome-3D-Generation)**|
 |**2025-05-15**|**Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning**|Wenhao Ding et.al.|[2505.10407](https://arxiv.org/abs/2505.10407)|**[link](https://github.com/omariosc/miccai-2025-surgery)**|
 |**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](https://arxiv.org/abs/2505.07747)|**[link](https://huggingface.co/spaces/stepfun-ai/Step1X-3D)**|
-|**2025-05-07**|**MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation**|Zilong Chen et.al.|[2505.04656](https://arxiv.org/abs/2505.04656)|null|
-|**2025-08-23**|**ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality**|Jaewook Lee et.al.|[2504.21360](https://arxiv.org/abs/2504.21360)|null|
-|**2025-06-29**|**An $r$ -adaptive finite element method using neural networks for parametric self-adjoint elliptic problem**|Danilo Aballay et.al.|[2504.21160](https://arxiv.org/abs/2504.21160)|null|
-|**2025-09-17**|**PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking**|Xiatao Sun et.al.|[2504.20359](https://arxiv.org/abs/2504.20359)|null|
+|**2025-05-07**|**MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation**|Zilong Chen et.al.|[2505.04656](https://arxiv.org/abs/2505.04656)|**[link](https://github.com/52CV/CVPR-2025-Papers)**|
+|**2025-08-23**|**ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality**|Jaewook Lee et.al.|[2504.21360](https://arxiv.org/abs/2504.21360)|**[link](https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Scene-Graph)**|
+|**2025-06-29**|**An $r$ -adaptive finite element method using neural networks for parametric self-adjoint elliptic problem**|Danilo Aballay et.al.|[2504.21160](https://arxiv.org/abs/2504.21160)|**[link](https://github.com/ManuelSanchezUribe/rFEM-NN)**|
+|**2025-09-17**|**PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking**|Xiatao Sun et.al.|[2504.20359](https://arxiv.org/abs/2504.20359)|**[link](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)**|
 |**2025-04-28**|**Point2Quad: Generating Quad Meshes from Point Clouds via Face Prediction**|Zezeng Li et.al.|[2504.19545](https://arxiv.org/abs/2504.19545)|**[link](https://github.com/cognaclee/Point2Quad)**|
 |**2025-04-11**|**A 120 lines code for isogeometric topology optimization and its extension to 3D in MATLAB**|Xianda Xie et.al.|[2504.08233](https://arxiv.org/abs/2504.08233)|null|
 |**2025-04-08**|**QEMesh: Employing A Quadric Error Metrics-Based Representation for Mesh Generation**|Jiaqi Li et.al.|[2504.05720](https://arxiv.org/abs/2504.05720)|**[link](https://github.com/xy-guo/github_bot_3d_papers)**|
@@ -76,7 +76,7 @@
 |**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694](https://arxiv.org/abs/2503.21694)|**[link](https://huggingface.co/spaces/ZhiyuanthePony/TriplaneTurbo)**|
 |**2025-03-25**|**Global Bounds for the Error in Solutions of Linear Hyperbolic Systems due to Inaccurate Boundary Geometry**|David A. Kopriva et.al.|[2503.20044](https://arxiv.org/abs/2503.20044)|null|
 |**2025-03-24**|**RomanTex: Decoupling 3D-aware Rotary Positional Embedded Multi-Attention Network for Texture Synthesis**|Yifei Feng et.al.|[2503.19011](https://arxiv.org/abs/2503.19011)|**[link](https://github.com/oakshy/RomanTex)**|
-|**2025-03-24**|**iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation**|Hanxiao Wang et.al.|[2503.16653](https://arxiv.org/abs/2503.16653)|**[link](https://github.com/hanxiaowang00/iFlame)**|
+|**2025-03-24**|**iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation**|Hanxiao Wang et.al.|[2503.16653](https://arxiv.org/abs/2503.16653)|null|
 |**2025-03-25**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](https://arxiv.org/abs/2503.16396)|**[link](https://huggingface.co/models/stabilityai/sv4d2.0)**|
 |**2025-03-19**|**DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning**|Ruowen Zhao et.al.|[2503.15265](https://arxiv.org/abs/2503.15265)|**[link](https://huggingface.co/models/zzzrw/DeepMesh)**|
 |**2025-03-16**|**DDPM-Polycube: A Denoising Diffusion Probabilistic Model for Polycube-Based Hexahedral Mesh Generation and Volumetric Spline Construction**|Yuxuan Yu et.al.|[2503.13541](https://arxiv.org/abs/2503.13541)|null|
@@ -107,8 +107,8 @@
 |**2025-02-26**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](https://arxiv.org/abs/2501.12202)|**[link](https://huggingface.co/spaces/tencent/Hunyuan3D-2)**|
 |**2025-01-22**|**MeshONet: A Generalizable and Efficient Operator Learning Method for Structured Mesh Generation**|Jing Xiao et.al.|[2501.11937](https://arxiv.org/abs/2501.11937)|null|
 |**2025-01-17**|**Modeling the drying process in hard carbon electrodes based on the phase-field method**|Marcel Weichel et.al.|[2501.10185](https://arxiv.org/abs/2501.10185)|null|
-|**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433](https://arxiv.org/abs/2501.09433)|**[link](https://github.com/ncsoft/CaPa)**|
-|**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](https://arxiv.org/abs/2501.07478)|**[link](https://github.com/LokiXun/diffusion_video_paper_list)**|
+|**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433](https://arxiv.org/abs/2501.09433)|null|
+|**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](https://arxiv.org/abs/2501.07478)|null|
 |**2025-01-11**|**A Nonlocal size modified Poisson-Boltzmann Model and Its Finite Element Solver for Protein in Multi-Species Ionic Solution**|Dexuan Xie et.al.|[2501.06615](https://arxiv.org/abs/2501.06615)|null|
 |**2024-12-16**|**Towards Real-time Adaptive Anisotropic Image-to-mesh Conversion for Vascular Flow Simulations**|Kevin Garner et.al.|[2412.13222](https://arxiv.org/abs/2412.13222)|null|
 |**2024-12-17**|**An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**|Christina G. Taylor et.al.|[2412.13002](https://arxiv.org/abs/2412.13002)|**[link](https://github.com/cgt3/ES-CutDG)**|
@@ -130,5 +130,5 @@
 |**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](https://arxiv.org/abs/2411.07025)|**[link](https://huggingface.co/spaces/whaohan/bpt)**|
 |**2024-11-06**|**Inter-Frame Coding for Dynamic Meshes via Coarse-to-Fine Anchor Mesh Generation**|He Huang et.al.|[2411.03921](https://arxiv.org/abs/2411.03921)|**[link](https://github.com/DWCTOD/cv-arxiv-daily)**|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
