@@ -22,7 +22,7 @@ layout: default
 |**2025-11-10**|**A General Probability Density Framework for Local Histopolation and Weighted Function Reconstruction from Mesh Line Integrals**|Francesco Dell'Accio et.al.|[2511.07259](https://arxiv.org/abs/2511.07259)|null|
 |**2025-11-10**|**Towards a parallel Schwarz solver framework for virtual elements using GDSW coarse spaces**|Tommaso Bevilacqua et.al.|[2511.07144](https://arxiv.org/abs/2511.07144)|null|
 |**2025-11-10**|**ProcGen3D: Learning Neural Procedural Graph Representations for Image-to-3D Reconstruction**|Xinyi Zhang et.al.|[2511.07142](https://arxiv.org/abs/2511.07142)|null|
-|**2025-11-10**|**DeepRWCap: Neural-Guided Random-Walk Capacitance Solver for IC Design**|Hector R. Rodriguez et.al.|[2511.06831](https://arxiv.org/abs/2511.06831)|**[link](https://github.com/THU-numbda/deepRWCap)**|
+|**2025-11-10**|**DeepRWCap: Neural-Guided Random-Walk Capacitance Solver for IC Design**|Hector R. Rodriguez et.al.|[2511.06831](https://arxiv.org/abs/2511.06831)|null|
 |**2025-11-09**|**NURBGen: High-Fidelity Text-to-CAD Generation through LLM-Driven NURBS Modeling**|Muhammad Usama et.al.|[2511.06194](https://arxiv.org/abs/2511.06194)|null|
 |**2025-11-08**|**Growing Avoiders from the Right: An Operator-Theoretic Approach**|Reza Rastegar et.al.|[2511.06118](https://arxiv.org/abs/2511.06118)|null|
 |**2025-11-06**|**Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation**|Ziying Li et.al.|[2511.05609](https://arxiv.org/abs/2511.05609)|null|
@@ -40,7 +40,7 @@ layout: default
 |**2025-11-02**|**Neural Green's Functions**|Seungwoo Yoo et.al.|[2511.01924](https://arxiv.org/abs/2511.01924)|null|
 |**2025-11-03**|**Wonder3D++: Cross-domain Diffusion for High-fidelity 3D Generation from a Single Image**|Yuxiao Yang et.al.|[2511.01767](https://arxiv.org/abs/2511.01767)|null|
 |**2025-11-01**|**Physics-Informed Neural Networks for Speech Production**|Kazuya Yokota et.al.|[2511.00428](https://arxiv.org/abs/2511.00428)|null|
-|**2025-10-31**|**Engineering.ai: A Platform for Teams of AI Engineers in Computational Design**|Ran Xu et.al.|[2511.00122](https://arxiv.org/abs/2511.00122)|null|
+|**2025-10-31**|**Engineering.ai: A Platform for Teams of AI Engineers in Computational Design**|Ran Xu et.al.|[2511.00122](https://arxiv.org/abs/2511.00122)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-10-31**|**Object-IR: Leveraging Object Consistency and Mesh Deformation for Self-Supervised Image Retargeting**|Tianli Liao et.al.|[2510.27236](https://arxiv.org/abs/2510.27236)|**[link](https://github.com/tlliao/Object-IR)**|
 |**2025-10-30**|**REALMS2 -- Resilient Exploration And Lunar Mapping System 2 -- A Comprehensive Approach**|Dave van der Meer et.al.|[2510.26638](https://arxiv.org/abs/2510.26638)|**[link](https://github.com/Active-SLAM/Active-SLAM-Paper-List)**|
 |**2025-10-30**|**Explicit Consistency Error Estimate for Finite Element Solutions of the Poisson Equation on Convex Domains**|Su Ruibo et.al.|[2510.26404](https://arxiv.org/abs/2510.26404)|null|
@@ -57,11 +57,11 @@ layout: default
 |**2025-10-28**|**Taming the Tail: NoI Topology Synthesis for Mixed DL Workloads on Chiplet-Based Accelerators**|Arnav Shukla et.al.|[2510.24113](https://arxiv.org/abs/2510.24113)|null|
 |**2025-10-27**|**Gröbner bases for mesh relations and applications to compositions of irreducible morphisms**|Viktor Chust et.al.|[2510.23777](https://arxiv.org/abs/2510.23777)|null|
 |**2025-10-27**|**Mesh-comparable components of the Auslander-Reiten quiver**|Viktor Chust et.al.|[2510.23758](https://arxiv.org/abs/2510.23758)|null|
-|**2025-10-27**|**Track, Inpaint, Resplat: Subject-driven 3D and 4D Generation with Progressive Texture Infilling**|Shuhong Zheng et.al.|[2510.23605](https://arxiv.org/abs/2510.23605)|**[link](https://github.com/ALEEEHU/World-Simulator)**|
+|**2025-10-27**|**Track, Inpaint, Resplat: Subject-driven 3D and 4D Generation with Progressive Texture Infilling**|Shuhong Zheng et.al.|[2510.23605](https://arxiv.org/abs/2510.23605)|null|
 |**2025-10-27**|**Stability analysis of discontinuous Galerkin with a high order embedded boundary treatment for linear hyperbolic equations**|Mirco Ciallella et.al.|[2510.23231](https://arxiv.org/abs/2510.23231)|null|
 |**2025-10-26**|**RL-AVIST: Reinforcement Learning for Autonomous Visual Inspection of Space Targets**|Matteo El-Hariry et.al.|[2510.22699](https://arxiv.org/abs/2510.22699)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-10-26**|**TVMC: Time-Varying Mesh Compression via Multi-Stage Anchor Mesh Generation**|He Huang et.al.|[2510.22646](https://arxiv.org/abs/2510.22646)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
-|**2025-10-25**|**DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum**|Yaokun Li et.al.|[2510.22213](https://arxiv.org/abs/2510.22213)|null|
+|**2025-10-25**|**DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum**|Yaokun Li et.al.|[2510.22213](https://arxiv.org/abs/2510.22213)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
 |**2025-10-24**|**A Hybrid GNN-LSE Method for Fast, Robust, and Physically-Consistent AC Power Flow**|Mohamed Shamseldein et.al.|[2510.22020](https://arxiv.org/abs/2510.22020)|null|
 |**2025-10-24**|**FeaGPT: an End-to-End agentic-AI for Finite Element Analysis**|Yupeng Qi et.al.|[2510.21993](https://arxiv.org/abs/2510.21993)|null|
 |**2025-10-23**|**LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation**|Xin Lu et.al.|[2510.21864](https://arxiv.org/abs/2510.21864)|null|
@@ -70,11 +70,11 @@ layout: default
 |**2025-10-22**|**Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets**|Jiashi Feng et.al.|[2510.19944](https://arxiv.org/abs/2510.19944)|null|
 |**2025-10-22**|**The Synthetic Absorption Line Spectral Almanac (SALSA)**|Dylan Nelson et.al.|[2510.19904](https://arxiv.org/abs/2510.19904)|null|
 |**2025-10-22**|**Supermassive Black Hole Growth in Massive Galaxies at Cosmic Dawn**|James Sunseri et.al.|[2510.19822](https://arxiv.org/abs/2510.19822)|null|
-|**2025-10-22**|**AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields**|Woo Jae Kim et.al.|[2510.19371](https://arxiv.org/abs/2510.19371)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
+|**2025-10-22**|**AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields**|Woo Jae Kim et.al.|[2510.19371](https://arxiv.org/abs/2510.19371)|null|
 |**2025-10-22**|**BaryonBridge: Stochastic Interpolant Model for Fast Hydrodynamical Simulations**|Benjamin Horowitz et.al.|[2510.19224](https://arxiv.org/abs/2510.19224)|null|
 |**2025-10-22**|**Towards a general characterization of flat fan sprays through Direct Numerical Simulations**|Longxiang Huang et.al.|[2510.19198](https://arxiv.org/abs/2510.19198)|null|
-|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](https://arxiv.org/abs/2510.19195)|null|
-|**2025-10-21**|**UniHPR: Unified Human Pose Representation via Singular Value Contrastive Learning**|Zhongyu Jiang et.al.|[2510.19078](https://arxiv.org/abs/2510.19078)|null|
+|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](https://arxiv.org/abs/2510.19195)|**[link](https://github.com/LMD0311/Awesome-World-Model)**|
+|**2025-10-21**|**UniHPR: Unified Human Pose Representation via Singular Value Contrastive Learning**|Zhongyu Jiang et.al.|[2510.19078](https://arxiv.org/abs/2510.19078)|**[link](https://github.com/Jchim1102/cv-arxiv-daily-COD)**|
 |**2025-10-21**|**Coverage-Recon: Coordinated Multi-Drone Image Sampling with Online Map Feedback**|Muhammad Hanif et.al.|[2510.18347](https://arxiv.org/abs/2510.18347)|**[link](https://github.com/Active-SLAM/Active-SLAM-Paper-List)**|
 |**2025-10-20**|**ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling**|Shuyuan Zhang et.al.|[2510.17603](https://arxiv.org/abs/2510.17603)|**[link](https://github.com/SanBingYouYong/shapecraft)**|
 |**2025-10-20**|**Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey**|Dezhong Tong et.al.|[2510.17546](https://arxiv.org/abs/2510.17546)|null|
@@ -82,11 +82,11 @@ layout: default
 |**2025-10-31**|**DrivAerStar: An Industrial-Grade CFD Dataset for Vehicle Aerodynamic Optimization**|Jiyan Qiu et.al.|[2510.16857](https://arxiv.org/abs/2510.16857)|null|
 |**2025-10-18**|**A linear unconditionally structure-preserving L1 scheme for the time-fractional Allen-Cahn equation**|Dianming Hou et.al.|[2510.16496](https://arxiv.org/abs/2510.16496)|null|
 |**2025-10-18**|**Iterative solvers for partial differential equations with dissipative structure: Operator preconditioning and optimal control**|Volker Mehrmann et.al.|[2510.16399](https://arxiv.org/abs/2510.16399)|null|
-|**2025-10-17**|**AtomBench: A Benchmark for Generative Atomic Structure Models using GPT, Diffusion, and Flow Architectures**|Charles Rhys Campbell et.al.|[2510.16165](https://arxiv.org/abs/2510.16165)|null|
+|**2025-10-17**|**AtomBench: A Benchmark for Generative Atomic Structure Models using GPT, Diffusion, and Flow Architectures**|Charles Rhys Campbell et.al.|[2510.16165](https://arxiv.org/abs/2510.16165)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
 |**2025-10-17**|**GuideFlow3D: Optimization-Guided Rectified Flow For Appearance Transfer**|Sayan Deb Sarkar et.al.|[2510.16136](https://arxiv.org/abs/2510.16136)|null|
 |**2025-10-17**|**Boundary-Informed Method of Lines for Physics Informed Neural Networks**|Maximilian Cederholm et.al.|[2510.15852](https://arxiv.org/abs/2510.15852)|null|
-|**2025-10-17**|**Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation**|Xiaoming Zhu et.al.|[2510.15564](https://arxiv.org/abs/2510.15564)|**[link](https://github.com/hzxie/Awesome-3D-Scene-Generation)**|
-|**2025-10-17**|**Iterative Motion Compensation for Canonical 3D Reconstruction from UAV Plant Images Captured in Windy Conditions**|Andre Rochow et.al.|[2510.15491](https://arxiv.org/abs/2510.15491)|**[link](https://github.com/wendell0218/Awesome-Motion-Datasets)**|
+|**2025-10-17**|**Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation**|Xiaoming Zhu et.al.|[2510.15564](https://arxiv.org/abs/2510.15564)|null|
+|**2025-10-17**|**Iterative Motion Compensation for Canonical 3D Reconstruction from UAV Plant Images Captured in Windy Conditions**|Andre Rochow et.al.|[2510.15491](https://arxiv.org/abs/2510.15491)|**[link](https://github.com/Jchim1102/cv-arxiv-daily-COD)**|
 |**2025-10-16**|**UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos**|Mingxuan Liu et.al.|[2510.15018](https://arxiv.org/abs/2510.15018)|**[link](https://github.com/OatmealLiu/UrbanVerse)**|
 |**2025-10-16**|**Efficient and Robust Carathéodory-Steinitz Pruning of Positive Discrete Measures**|Filip Bělík et.al.|[2510.14916](https://arxiv.org/abs/2510.14916)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
 |**2025-10-16**|**High-Order Meshfree Surface Integration, Including Singular Integrands**|Daniel R. Venn et.al.|[2510.14236](https://arxiv.org/abs/2510.14236)|**[link](https://github.com/venndaniel/meshfree_integration)**|
@@ -97,10 +97,10 @@ layout: default
 |**2025-10-15**|**VPREG: An Optimal Control Formulation for Diffeomorphic Image Registration Based on the Variational Principle Grid Generation Method**|Zicong Zhou et.al.|[2510.13109](https://arxiv.org/abs/2510.13109)|null|
 |**2025-10-14**|**Functional a posteriori estimates for the fractional Laplacian problem**|Alexander Nazarov et.al.|[2510.12664](https://arxiv.org/abs/2510.12664)|null|
 |**2025-10-14**|**A priori error estimates for stable generalized finite element discretization of parabolic interface optimal control problems**|Xindan Zhang et.al.|[2510.12147](https://arxiv.org/abs/2510.12147)|null|
-|**2025-10-14**|**IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation**|Wenxu Zhou et.al.|[2510.12095](https://arxiv.org/abs/2510.12095)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2025-10-14**|**IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation**|Wenxu Zhou et.al.|[2510.12095](https://arxiv.org/abs/2510.12095)|null|
 |**2025-10-13**|**TorchCor: High-Performance Cardiac Electrophysiology Simulations with the Finite Element Method on GPUs**|Bei Zhou et.al.|[2510.12011](https://arxiv.org/abs/2510.12011)|null|
-|**2025-10-13**|**InfiniHuman: Infinite 3D Human Creation with Precise Control**|Yuxuan Xue et.al.|[2510.11650](https://arxiv.org/abs/2510.11650)|**[link](https://github.com/YuxuanSnow/InfiniHuman)**|
-|**2025-10-13**|**A Framework for Low-Effort Training Data Generation for Urban Semantic Segmentation**|Denis Zavadski et.al.|[2510.11567](https://arxiv.org/abs/2510.11567)|**[link](https://github.com/ZhuYingJessica/cv-daily)**|
+|**2025-10-13**|**InfiniHuman: Infinite 3D Human Creation with Precise Control**|Yuxuan Xue et.al.|[2510.11650](https://arxiv.org/abs/2510.11650)|null|
+|**2025-10-13**|**A Framework for Low-Effort Training Data Generation for Urban Semantic Segmentation**|Denis Zavadski et.al.|[2510.11567](https://arxiv.org/abs/2510.11567)|null|
 |**2025-10-13**|**Spline Interpolation on Compact Riemannian Manifolds**|Charlie Sire et.al.|[2510.11239](https://arxiv.org/abs/2510.11239)|**[link](https://github.com/charliesire/supplementary_material_splines_riemannian)**|
 |**2025-10-12**|**High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting**|Haoyu Zhao et.al.|[2510.10637](https://arxiv.org/abs/2510.10637)|**[link](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)**|
 |**2025-10-12**|**Jigsaw3D: Disentangled 3D Style Transfer via Patch Shuffling and Masking**|Yuteng Ye et.al.|[2510.10497](https://arxiv.org/abs/2510.10497)|null|
