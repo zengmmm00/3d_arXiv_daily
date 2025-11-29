@@ -30,11 +30,11 @@ layout: default
 |**2025-11-23**|**Reduced-Basis Deep Operator Learning for Parametric PDEs with Independently Varying Boundary and Source Data**|Yueqi Wang et.al.|[2511.18260](https://arxiv.org/abs/2511.18260)|null|
 |**2025-11-22**|**Multi-port programmable silicon photonics using low-loss phase change material Sb $_2$Se$_3$**|Thomas W. Radford et.al.|[2511.18205](https://arxiv.org/abs/2511.18205)|null|
 |**2025-11-22**|**Mesh of Spatiotemporal Optical Vortices with Programmable Intensity Nulls**|Jinxin Wu et.al.|[2511.18087](https://arxiv.org/abs/2511.18087)|null|
-|**2025-11-21**|**QAL: A Loss for Recall Precision Balance in 3D Reconstruction**|Pranay Meshram et.al.|[2511.17824](https://arxiv.org/abs/2511.17824)|null|
-|**2025-11-21**|**Towards Generative Design Using Optimal Transport for Shape Exploration and Solution Field Interpolation**|Sergio Torregrosa et.al.|[2511.17111](https://arxiv.org/abs/2511.17111)|null|
+|**2025-11-21**|**QAL: A Loss for Recall Precision Balance in 3D Reconstruction**|Pranay Meshram et.al.|[2511.17824](https://arxiv.org/abs/2511.17824)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2025-11-21**|**Towards Generative Design Using Optimal Transport for Shape Exploration and Solution Field Interpolation**|Sergio Torregrosa et.al.|[2511.17111](https://arxiv.org/abs/2511.17111)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
 |**2025-11-21**|**Subdivision of Simplicial Complex**|Sanjay Mishra et.al.|[2511.17096](https://arxiv.org/abs/2511.17096)|null|
-|**2025-11-20**|**Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation**|Xiatao Sun et.al.|[2511.16807](https://arxiv.org/abs/2511.16807)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-11-20**|**SVG360: Multi-View SVG Generation with Geometric and Color Consistency from a Single SVG**|Mengnan Jiang et.al.|[2511.16766](https://arxiv.org/abs/2511.16766)|**[link](https://github.com/liliu-avril/Awesome-Segment-Anything)**|
+|**2025-11-20**|**Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation**|Xiatao Sun et.al.|[2511.16807](https://arxiv.org/abs/2511.16807)|null|
+|**2025-11-20**|**SVG360: Multi-View SVG Generation with Geometric and Color Consistency from a Single SVG**|Mengnan Jiang et.al.|[2511.16766](https://arxiv.org/abs/2511.16766)|null|
 |**2025-11-20**|**PartUV: Part-Based UV Unwrapping of 3D Meshes**|Zhaoning Wang et.al.|[2511.16659](https://arxiv.org/abs/2511.16659)|**[link](https://github.com/EricWang12/PartUV)**|
 |**2025-11-20**|**Algorithms and optimizations for global non-linear hybrid fluid-kinetic finite element stellarator simulations**|Luca Venerando Greco et.al.|[2511.16412](https://arxiv.org/abs/2511.16412)|null|
 |**2025-11-20**|**NaTex: Seamless Texture Generation as Latent Color Diffusion**|Zeqiang Lai et.al.|[2511.16317](https://arxiv.org/abs/2511.16317)|**[link](https://github.com/Zeqiang-Lai/NaTex)**|
@@ -42,7 +42,7 @@ layout: default
 |**2025-11-19**|**FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation**|Tingrui Shen et.al.|[2511.15618](https://arxiv.org/abs/2511.15618)|**[link](https://github.com/Graphic-Kiliani/FlashMesh-Faster-and-Better-Autoregressive-Mesh-Synthesis)**|
 |**2025-11-19**|**A Hybrid-High Order method for fracture modelling**|Alessandra Crippa et.al.|[2511.15345](https://arxiv.org/abs/2511.15345)|null|
 |**2025-11-19**|**Properties of IFS attractors with non-empty interiors, related rough domains, and associated function spaces and scattering problems**|António Caetano et.al.|[2511.15213](https://arxiv.org/abs/2511.15213)|null|
-|**2025-11-18**|**B-Rep Distance Functions (BR-DF): How to Represent a B-Rep Model by Volumetric Distance Functions?**|Fuyang Zhang et.al.|[2511.14870](https://arxiv.org/abs/2511.14870)|**[link](https://github.com/zhangfuyang/BR-DF)**|
+|**2025-11-18**|**B-Rep Distance Functions (BR-DF): How to Represent a B-Rep Model by Volumetric Distance Functions?**|Fuyang Zhang et.al.|[2511.14870](https://arxiv.org/abs/2511.14870)|null|
 |**2025-11-18**|**ArchMap: Arch-Flattening and Knowledge-Guided Vision Language Model for Tooth Counting and Structured Dental Understanding**|Bohan Zhang et.al.|[2511.14336](https://arxiv.org/abs/2511.14336)|null|
 |**2025-11-18**|**Privis: Towards Content-Aware Secure Volumetric Video Delivery**|Kaiyuan Hu et.al.|[2511.14005](https://arxiv.org/abs/2511.14005)|null|
 |**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](https://arxiv.org/abs/2511.13684)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
@@ -55,7 +55,7 @@ layout: default
 |**2025-11-14**|**Learning Conjugate Direction Fields for Planar Quadrilateral Mesh Generation**|Jiong Tao et.al.|[2511.11865](https://arxiv.org/abs/2511.11865)|null|
 |**2025-11-13**|**Fast 3D Surrogate Modeling for Data Center Thermal Management**|Soumyendu Sarkar et.al.|[2511.11722](https://arxiv.org/abs/2511.11722)|null|
 |**2025-11-12**|**Target-Balanced Score Distillation**|Zhou Xu et.al.|[2511.11710](https://arxiv.org/abs/2511.11710)|null|
-|**2025-11-14**|**LARM: A Large Articulated-Object Reconstruction Model**|Sylvia Yuan et.al.|[2511.11563](https://arxiv.org/abs/2511.11563)|null|
+|**2025-11-14**|**LARM: A Large Articulated-Object Reconstruction Model**|Sylvia Yuan et.al.|[2511.11563](https://arxiv.org/abs/2511.11563)|**[link](https://github.com/ZhuYingJessica/cv-daily)**|
 |**2025-11-14**|**Sat2RealCity: Geometry-Aware and Appearance-Controllable 3D Urban Generation from Satellite Imagery**|Yijie Kang et.al.|[2511.11470](https://arxiv.org/abs/2511.11470)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-11-14**|**DoReMi: A Domain-Representation Mixture Framework for Generalizable 3D Understanding**|Mingwei Xing et.al.|[2511.11232](https://arxiv.org/abs/2511.11232)|null|
 |**2025-11-14**|**Phys-Liquid: A Physics-Informed Dataset for Estimating 3D Geometry and Volume of Transparent Deformable Liquids**|Ke Ma et.al.|[2511.11077](https://arxiv.org/abs/2511.11077)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
@@ -73,7 +73,7 @@ layout: default
 |**2025-11-10**|**A General Probability Density Framework for Local Histopolation and Weighted Function Reconstruction from Mesh Line Integrals**|Francesco Dell'Accio et.al.|[2511.07259](https://arxiv.org/abs/2511.07259)|null|
 |**2025-11-10**|**Towards a parallel Schwarz solver framework for virtual elements using GDSW coarse spaces**|Tommaso Bevilacqua et.al.|[2511.07144](https://arxiv.org/abs/2511.07144)|null|
 |**2025-11-10**|**ProcGen3D: Learning Neural Procedural Graph Representations for Image-to-3D Reconstruction**|Xinyi Zhang et.al.|[2511.07142](https://arxiv.org/abs/2511.07142)|null|
-|**2025-11-23**|**DeepRWCap: Neural-Guided Random-Walk Capacitance Solver for IC Design**|Hector R. Rodriguez et.al.|[2511.06831](https://arxiv.org/abs/2511.06831)|**[link](https://github.com/THU-numbda/deepRWCap)**|
+|**2025-11-23**|**DeepRWCap: Neural-Guided Random-Walk Capacitance Solver for IC Design**|Hector R. Rodriguez et.al.|[2511.06831](https://arxiv.org/abs/2511.06831)|null|
 |**2025-11-15**|**NURBGen: High-Fidelity Text-to-CAD Generation through LLM-Driven NURBS Modeling**|Muhammad Usama et.al.|[2511.06194](https://arxiv.org/abs/2511.06194)|null|
 |**2025-11-20**|**Growing Avoiders from the Right: An Operator-Theoretic Approach**|Reza Rastegar et.al.|[2511.06118](https://arxiv.org/abs/2511.06118)|null|
 |**2025-11-06**|**Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation**|Ziying Li et.al.|[2511.05609](https://arxiv.org/abs/2511.05609)|null|
@@ -104,11 +104,11 @@ layout: default
 |**2025-10-29**|**Conditional neural field for spatial dimension reduction of turbulence data: a comparison study**|Junyi Guo et.al.|[2510.25135](https://arxiv.org/abs/2510.25135)|null|
 |**2025-10-24**|**Towards Fine-Grained Human Motion Video Captioning**|Guorui Song et.al.|[2510.24767](https://arxiv.org/abs/2510.24767)|**[link](https://github.com/loststars2002/M-ACM-codes)**|
 |**2025-10-23**|**Comparative Analysis of Procedural Planet Generators**|Manuel Zechmann et.al.|[2510.24764](https://arxiv.org/abs/2510.24764)|null|
-|**2025-10-28**|**NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation**|Mingyu Jeong et.al.|[2510.24335](https://arxiv.org/abs/2510.24335)|**[link](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)**|
+|**2025-10-28**|**NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation**|Mingyu Jeong et.al.|[2510.24335](https://arxiv.org/abs/2510.24335)|null|
 |**2025-10-28**|**Taming the Tail: NoI Topology Synthesis for Mixed DL Workloads on Chiplet-Based Accelerators**|Arnav Shukla et.al.|[2510.24113](https://arxiv.org/abs/2510.24113)|null|
 |**2025-10-27**|**Gröbner bases for mesh relations and applications to compositions of irreducible morphisms**|Viktor Chust et.al.|[2510.23777](https://arxiv.org/abs/2510.23777)|null|
 |**2025-10-27**|**Mesh-comparable components of the Auslander-Reiten quiver**|Viktor Chust et.al.|[2510.23758](https://arxiv.org/abs/2510.23758)|null|
-|**2025-10-27**|**Track, Inpaint, Resplat: Subject-driven 3D and 4D Generation with Progressive Texture Infilling**|Shuhong Zheng et.al.|[2510.23605](https://arxiv.org/abs/2510.23605)|null|
+|**2025-10-27**|**Track, Inpaint, Resplat: Subject-driven 3D and 4D Generation with Progressive Texture Infilling**|Shuhong Zheng et.al.|[2510.23605](https://arxiv.org/abs/2510.23605)|**[link](https://github.com/ALEEEHU/World-Simulator)**|
 |**2025-10-27**|**Stability analysis of discontinuous Galerkin with a high order embedded boundary treatment for linear hyperbolic equations**|Mirco Ciallella et.al.|[2510.23231](https://arxiv.org/abs/2510.23231)|null|
 |**2025-10-26**|**RL-AVIST: Reinforcement Learning for Autonomous Visual Inspection of Space Targets**|Matteo El-Hariry et.al.|[2510.22699](https://arxiv.org/abs/2510.22699)|null|
 |**2025-10-26**|**TVMC: Time-Varying Mesh Compression via Multi-Stage Anchor Mesh Generation**|He Huang et.al.|[2510.22646](https://arxiv.org/abs/2510.22646)|null|
