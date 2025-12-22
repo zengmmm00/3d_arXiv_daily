@@ -131,7 +131,7 @@
 |**2025-11-04**|**Abstract representation theory via coherent Auslander-Reiten diagrams**|Álvaro Sánchez et.al.|[2511.02731](https://arxiv.org/abs/2511.02731)|null|
 |**2025-11-04**|**Arithmetic Circuits and Neural Networks for Regular Matroids**|Christoph Hertrich et.al.|[2511.02406](https://arxiv.org/abs/2511.02406)|null|
 |**2025-11-22**|**Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models**|Alexander Htet Kyaw et.al.|[2511.02162](https://arxiv.org/abs/2511.02162)|null|
-|**2025-12-05**|**MCHex: Marching Cubes Based Adaptive Hexahedral Mesh Generation with Guaranteed Positive Jacobian**|Hua Tong et.al.|[2511.02064](https://arxiv.org/abs/2511.02064)|null|
+|**2025-12-19**|**MCHex: Marching Cubes Based Adaptive Hexahedral Mesh Generation with Guaranteed Positive Jacobian**|Hua Tong et.al.|[2511.02064](https://arxiv.org/abs/2511.02064)|null|
 |**2025-11-02**|**Neural Green's Functions**|Seungwoo Yoo et.al.|[2511.01924](https://arxiv.org/abs/2511.01924)|**[link](https://github.com/eyobghiday/PINNs-in-Fluid-Mechanics)**|
 |**2025-11-19**|**Wonder3D++: Cross-domain Diffusion for High-fidelity 3D Generation from a Single Image**|Yuxiao Yang et.al.|[2511.01767](https://arxiv.org/abs/2511.01767)|**[link](https://github.com/yyeboah/Awesome-Text-to-3D)**|
 |**2025-11-01**|**Physics-Informed Neural Networks for Speech Production**|Kazuya Yokota et.al.|[2511.00428](https://arxiv.org/abs/2511.00428)|null|
@@ -257,7 +257,7 @@
 |**2025-05-26**|**Learned Adaptive Mesh Generation**|Zhiyuan Zhang et.al.|[2505.20457](https://arxiv.org/abs/2505.20457)|null|
 |**2025-09-26**|**ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction**|Qimin Chen et.al.|[2505.20431](https://arxiv.org/abs/2505.20431)|null|
 |**2025-06-05**|**Weak Physics Informed Neural Networks for Geometry Compatible Hyperbolic Conservation Laws on Manifolds**|Hanfei Zhou et.al.|[2505.19036](https://arxiv.org/abs/2505.19036)|null|
-|**2025-10-23**|**Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning**|Jian Liu et.al.|[2505.16761](https://arxiv.org/abs/2505.16761)|**[link](https://github.com/hitcslj/Mesh-RFT)**|
+|**2025-10-23**|**Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning**|Jian Liu et.al.|[2505.16761](https://arxiv.org/abs/2505.16761)|null|
 |**2025-05-19**|**FreeMesh: Boosting Mesh Generation with Coordinates Merging**|Jian Liu et.al.|[2505.13573](https://arxiv.org/abs/2505.13573)|**[link](https://github.com/BunnySoCrazy/Awesome-3D-Generation)**|
 |**2025-05-15**|**Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning**|Wenhao Ding et.al.|[2505.10407](https://arxiv.org/abs/2505.10407)|**[link](https://github.com/Jin1Xu/Med-Multimodal-Paper-List)**|
 |**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](https://arxiv.org/abs/2505.07747)|**[link](https://huggingface.co/spaces/stepfun-ai/Step1X-3D)**|
