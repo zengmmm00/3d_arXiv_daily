@@ -1,4 +1,4 @@
-## Updated on 2026.01.03
+## Updated on 2026.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -395,5 +395,5 @@
 |**2015-07-15**|**A New Method for Triangular Mesh Generation**|Guojun G Liao et.al.|[1507.03699](https://arxiv.org/abs/1507.03699)|null|
 |**2015-04-02**|**Stochastic domain decomposition for time dependent adaptive mesh generation**|Alexander Bihlo et.al.|[1504.00084](https://arxiv.org/abs/1504.00084)|null|
 
-<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
