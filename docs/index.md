@@ -287,7 +287,7 @@ layout: default
 |**2025-03-16**|**DDPM-Polycube: A Denoising Diffusion Probabilistic Model for Polycube-Based Hexahedral Mesh Generation and Volumetric Spline Construction**|Yuxuan Yu et.al.|[2503.13541](https://arxiv.org/abs/2503.13541)|**[link](https://github.com/CMU-CBML/DDPM-Polycube)**|
 |**2025-10-05**|**DecompDreamer: A Composition-Aware Curriculum for Structured 3D Asset Generation**|Utkarsh Nath et.al.|[2503.11981](https://arxiv.org/abs/2503.11981)|null|
 |**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629](https://arxiv.org/abs/2503.11629)|**[link](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)**|
-|**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368](https://arxiv.org/abs/2503.11368)|null|
+|**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368](https://arxiv.org/abs/2503.11368)|**[link](https://github.com/yyeboah/Awesome-Text-to-3D)**|
 |**2025-07-29**|**V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video**|Jianqi Chen et.al.|[2503.09631](https://arxiv.org/abs/2503.09631)|null|
 |**2025-08-05**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439](https://arxiv.org/abs/2503.09439)|**[link](https://github.com/yubaoqi187/Arxiv)**|
 |**2025-07-09**|**Direct Flow Simulations with Implicit Neural Representation of Complex Geometry**|Samundra Karki et.al.|[2503.08724](https://arxiv.org/abs/2503.08724)|null|
