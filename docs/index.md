@@ -13,12 +13,12 @@ layout: default
 |**2026-03-11**|**TopGen: Learning Structural Layouts and Cross-Fields for Quadrilateral Mesh Generation**|Yuguang Chen et.al.|[2603.10606](https://arxiv.org/abs/2603.10606)|null|
 |**2026-03-09**|**Computationally Efficient Data-Driven Topology Design Independent from High-Infoentropy Initial Dataset**|Jun Yang et.al.|[2603.08233](https://arxiv.org/abs/2603.08233)|null|
 |**2026-03-06**|**PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction**|Xiang Zhang et.al.|[2603.05888](https://arxiv.org/abs/2603.05888)|**[link](https://huggingface.co/models/zx1239856/PixARMesh-EdgeRunner)**|
-|**2026-03-05**|**MADCrowner: Margin Aware Dental Crown Design with Template Deformation and Refinement**|Linda Wei et.al.|[2603.04771](https://arxiv.org/abs/2603.04771)|**[link](https://github.com/lullcant/MADCrowner)**|
+|**2026-03-05**|**MADCrowner: Margin Aware Dental Crown Design with Template Deformation and Refinement**|Linda Wei et.al.|[2603.04771](https://arxiv.org/abs/2603.04771)|null|
 |**2026-03-02**|**Dehallu3D: Hallucination-Mitigated 3D Generation from Single Image via Cyclic View Consistency Refinement**|Xiwen Wang et.al.|[2603.01601](https://arxiv.org/abs/2603.01601)|null|
-|**2026-03-03**|**FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation**|Hanxiao Wang et.al.|[2603.01515](https://arxiv.org/abs/2603.01515)|null|
-|**2026-02-28**|**Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation**|Zhen Zhou et.al.|[2603.00526](https://arxiv.org/abs/2603.00526)|null|
-|**2026-03-03**|**A Boundary Integral-based Neural Operator for Mesh Deformation**|Zhengyu Wu et.al.|[2602.23703](https://arxiv.org/abs/2602.23703)|null|
-|**2026-02-27**|**BuildAnyPoint: 3D Building Structured Abstraction from Diverse Point Clouds**|Tongyan Hua et.al.|[2602.23645](https://arxiv.org/abs/2602.23645)|null|
+|**2026-03-03**|**FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation**|Hanxiao Wang et.al.|[2603.01515](https://arxiv.org/abs/2603.01515)|**[link](https://github.com/wendashi/awesome-3D-base-models)**|
+|**2026-02-28**|**Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation**|Zhen Zhou et.al.|[2603.00526](https://arxiv.org/abs/2603.00526)|**[link](https://github.com/Paper2Chinese/CVPR-2026-reading-papers-with-code)**|
+|**2026-03-03**|**A Boundary Integral-based Neural Operator for Mesh Deformation**|Zhengyu Wu et.al.|[2602.23703](https://arxiv.org/abs/2602.23703)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4physics)**|
+|**2026-02-27**|**BuildAnyPoint: 3D Building Structured Abstraction from Diverse Point Clouds**|Tongyan Hua et.al.|[2602.23645](https://arxiv.org/abs/2602.23645)|**[link](https://github.com/YWXK2016/daily_arxiv)**|
 |**2026-02-24**|**SPRITETOMESH: Automatic Mesh Generation for 2D Skeletal Animation Using Learned Segmentation and Contour-Aware Vertex Placement**|Bastien Gimbert et.al.|[2602.21153](https://arxiv.org/abs/2602.21153)|null|
 |**2025-11-12**|**Fuse3D: Generating 3D Assets Controlled by Multi-Image Fusion**|Xuancheng Jin et.al.|[2602.17040](https://arxiv.org/abs/2602.17040)|**[link](https://github.com/BunnySoCrazy/Awesome-3D-Generation)**|
 |**2026-02-16**|**Distributed Semi-Speculative Parallel Anisotropic Mesh Adaptation**|Kevin Garner et.al.|[2602.15204](https://arxiv.org/abs/2602.15204)|null|
@@ -26,7 +26,7 @@ layout: default
 |**2026-02-12**|**A Preliminary Assessment of Coding Agents for CFD Workflows**|Ke Xiao et.al.|[2602.11689](https://arxiv.org/abs/2602.11689)|null|
 |**2026-02-04**|**Multi-threaded Recast-Based A* Pathfinding for Scalable Navigation in Dynamic Game Environments**|Tiroshan Madushanka et.al.|[2602.04130](https://arxiv.org/abs/2602.04130)|null|
 |**2026-01-31**|**Multi-Compartment Volume Conductor with Complete Electrode Model: Simulated Stereo-EEG Source Localization using Brainstorm-Zeffiro Plugin**|Fernando Galaz Prieto et.al.|[2602.00684](https://arxiv.org/abs/2602.00684)|null|
-|**2026-01-29**|**HiFi-Mesh: High-Fidelity Efficient 3D Mesh Generation via Compact Autoregressive Dependence**|Yanfeng Li et.al.|[2601.21314](https://arxiv.org/abs/2601.21314)|null|
+|**2026-01-29**|**HiFi-Mesh: High-Fidelity Efficient 3D Mesh Generation via Compact Autoregressive Dependence**|Yanfeng Li et.al.|[2601.21314](https://arxiv.org/abs/2601.21314)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4chem)**|
 |**2026-01-28**|**A Unified Variational Functional for Equidistribution and Alignment in Moving Mesh Adaptation**|Wenbin Wang et.al.|[2601.20235](https://arxiv.org/abs/2601.20235)|null|
 |**2026-01-22**|**ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion**|Remy Sabathier et.al.|[2601.16148](https://arxiv.org/abs/2601.16148)|**[link](https://huggingface.co/spaces/facebook/ActionMesh)**|
 |**2026-01-20**|**High-Order Symmetric Positive Interior Quadrature Rules on Two and Three Dimensional Domains**|Moustapha Diallo et.al.|[2601.14488](https://arxiv.org/abs/2601.14488)|null|
@@ -39,7 +39,7 @@ layout: default
 |**2025-12-13**|**A Computational Approach for Multi-Body Potential-Flow Interaction Effects Using Matrix-Free FEM and Body-Conforming Grids**|Anil Lal S et.al.|[2512.12232](https://arxiv.org/abs/2512.12232)|null|
 |**2025-12-11**|**SWiT-4D: Sliding-Window Transformer for Lossless and Parameter-Free Temporal 4D Generation**|Kehong Gong et.al.|[2512.10860](https://arxiv.org/abs/2512.10860)|null|
 |**2025-12-11**|**HypeR Adaptivity: Joint $hr$ -Adaptive Meshing via Hypergraph Multi-Agent Deep Reinforcement Learning**|Niccolò Grillo et.al.|[2512.10439](https://arxiv.org/abs/2512.10439)|null|
-|**2025-12-09**|**Self-Evolving 3D Scene Generation from a Single Image**|Kaizhi Zheng et.al.|[2512.08905](https://arxiv.org/abs/2512.08905)|null|
+|**2025-12-09**|**Self-Evolving 3D Scene Generation from a Single Image**|Kaizhi Zheng et.al.|[2512.08905](https://arxiv.org/abs/2512.08905)|**[link](https://github.com/eric-ai-lab/EvoScene)**|
 |**2025-12-09**|**MeshRipple: Structured Autoregressive Generation of Artist-Meshes**|Junkai Lin et.al.|[2512.07514](https://arxiv.org/abs/2512.07514)|**[link](https://github.com/yyeboah/Awesome-Text-to-3D)**|
 |**2025-12-05**|**FNOPT: Resolution-Agnostic, Self-Supervised Cloth Simulation using Meta-Optimization with Fourier Neural Operators**|Ruochen Chen et.al.|[2512.05762](https://arxiv.org/abs/2512.05762)|null|
 |**2026-03-13**|**SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling**|Elisabetta Fedele et.al.|[2512.05343](https://arxiv.org/abs/2512.05343)|**[link](https://huggingface.co/spaces/rjzhb222/SpaceControl)**|
@@ -97,7 +97,7 @@ layout: default
 |**2025-11-23**|**Reduced-Basis Deep Operator Learning for Parametric PDEs with Independently Varying Boundary and Source Data**|Yueqi Wang et.al.|[2511.18260](https://arxiv.org/abs/2511.18260)|null|
 |**2025-11-22**|**Multi-port programmable silicon photonics using low-loss phase change material Sb $_2$Se$_3$**|Thomas W. Radford et.al.|[2511.18205](https://arxiv.org/abs/2511.18205)|null|
 |**2025-11-22**|**Mesh of Spatiotemporal Optical Vortices with Programmable Intensity Nulls**|Jinxin Wu et.al.|[2511.18087](https://arxiv.org/abs/2511.18087)|null|
-|**2025-11-21**|**QAL: A Loss for Recall Precision Balance in 3D Reconstruction**|Pranay Meshram et.al.|[2511.17824](https://arxiv.org/abs/2511.17824)|null|
+|**2025-11-21**|**QAL: A Loss for Recall Precision Balance in 3D Reconstruction**|Pranay Meshram et.al.|[2511.17824](https://arxiv.org/abs/2511.17824)|**[link](https://github.com/droneslab/qal)**|
 |**2025-11-21**|**Towards Generative Design Using Optimal Transport for Shape Exploration and Solution Field Interpolation**|Sergio Torregrosa et.al.|[2511.17111](https://arxiv.org/abs/2511.17111)|**[link](https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting)**|
 |**2025-11-21**|**Subdivision of Simplicial Complex**|Sanjay Mishra et.al.|[2511.17096](https://arxiv.org/abs/2511.17096)|null|
 |**2025-11-20**|**Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation**|Xiatao Sun et.al.|[2511.16807](https://arxiv.org/abs/2511.16807)|null|
@@ -233,14 +233,14 @@ layout: default
 |**2025-10-07**|**MetaFind: Scene-Aware 3D Asset Retrieval for Coherent Metaverse Scene Generation**|Zhenyu Pan et.al.|[2510.04057](https://arxiv.org/abs/2510.04057)|null|
 |**2025-09-30**|**Unsupervised Representation Learning for 3D Mesh Parameterization with Semantic and Visibility Objectives**|AmirHossein Zamani et.al.|[2509.25094](https://arxiv.org/abs/2509.25094)|null|
 |**2025-09-29**|**UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation**|Guanjun Wu et.al.|[2509.25079](https://arxiv.org/abs/2509.25079)|**[link](https://huggingface.co/spaces/UniLat3D/UniLat3D)**|
-|**2026-02-28**|**QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models**|Jian Liu et.al.|[2509.21420](https://arxiv.org/abs/2509.21420)|**[link](https://github.com/BunnySoCrazy/Awesome-3D-Generation)**|
+|**2026-02-28**|**QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models**|Jian Liu et.al.|[2509.21420](https://arxiv.org/abs/2509.21420)|null|
 |**2025-09-25**|**Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets**|Team Hunyuan3D et.al.|[2509.21245](https://arxiv.org/abs/2509.21245)|**[link](https://huggingface.co/models/tencent/Hunyuan3D-Omni)**|
-|**2025-09-25**|**ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction**|Jiabao Lei et.al.|[2509.20824](https://arxiv.org/abs/2509.20824)|**[link](https://github.com/ChaoyueSong/Awesome-Auto-Regressive-in-GenerativeAI)**|
+|**2025-09-25**|**ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction**|Jiabao Lei et.al.|[2509.20824](https://arxiv.org/abs/2509.20824)|null|
 |**2025-11-14**|**MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly**|Rui Xu et.al.|[2509.19995](https://arxiv.org/abs/2509.19995)|**[link](https://github.com/Xrvitd/MeshMosaic)**|
-|**2025-09-17**|**StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance**|Zefan Qu et.al.|[2509.13301](https://arxiv.org/abs/2509.13301)|null|
-|**2025-09-16**|**Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation**|Biwen Lei et.al.|[2509.12815](https://arxiv.org/abs/2509.12815)|null|
+|**2025-09-17**|**StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance**|Zefan Qu et.al.|[2509.13301](https://arxiv.org/abs/2509.13301)|**[link](https://github.com/quzefan/StyleSculptor)**|
+|**2025-09-16**|**Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation**|Biwen Lei et.al.|[2509.12815](https://arxiv.org/abs/2509.12815)|**[link](https://github.com/yyeboah/Awesome-Text-to-3D)**|
 |**2025-09-15**|**Artist-Created Mesh Generation from Raw Observation**|Yao He et.al.|[2509.12501](https://arxiv.org/abs/2509.12501)|null|
-|**2025-09-09**|**DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation**|Ze-Xin Yin et.al.|[2509.07435](https://arxiv.org/abs/2509.07435)|null|
+|**2025-09-09**|**DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation**|Ze-Xin Yin et.al.|[2509.07435](https://arxiv.org/abs/2509.07435)|**[link](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)**|
 |**2025-12-12**|**3D-LATTE: Latent Space 3D Editing from Textual Instructions**|Maria Parelli et.al.|[2509.00269](https://arxiv.org/abs/2509.00269)|**[link](https://github.com/EricLee0224/awesome-nerf-editing)**|
 |**2025-08-28**|**Droplet3D: Commonsense Priors from Videos Facilitate 3D Generation**|Xiaochuan Li et.al.|[2508.20470](https://arxiv.org/abs/2508.20470)|**[link](https://huggingface.co/models/DropletX/Droplet3D-5B)**|
 |**2025-08-27**|**Multimodal Conditional MeshGAN for Personalized Aneurysm Growth Prediction**|Long Chen et.al.|[2508.19862](https://arxiv.org/abs/2508.19862)|**[link](https://github.com/ImperialCollegeLondon/MCMeshGAN)**|
@@ -266,9 +266,9 @@ layout: default
 |**2025-06-28**|**Loop2Net: Data-Driven Generation and Optimization of Airfoil CFD Meshes from Sparse Boundary Coordinates**|Lushun Fan et.al.|[2507.01057](https://arxiv.org/abs/2507.01057)|null|
 |**2025-12-16**|**TextMesh4D: Text-to-4D Mesh Generation via Jacobian Deformation Field**|Sisi Dai et.al.|[2506.24121](https://arxiv.org/abs/2506.24121)|**[link](https://github.com/Xuchen-Li/llm-arxiv-daily)**|
 |**2025-06-21**|**PhysID: Physics-based Interactive Dynamics from a Single-view Image**|Sourabh Vasant Gothe et.al.|[2506.17746](https://arxiv.org/abs/2506.17746)|null|
-|**2025-06-21**|**Programmable-Room: Interactive Textured 3D Room Meshes Generation Empowered by Large Language Models**|Jihyun Kim et.al.|[2506.17707](https://arxiv.org/abs/2506.17707)|null|
-|**2025-06-19**|**Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details**|Zeqiang Lai et.al.|[2506.16504](https://arxiv.org/abs/2506.16504)|null|
-|**2025-06-18**|**Quantifying the influence of fault geometry via mesh morphing with applications to earthquake dynamic rupture and thermal models of subduction**|Gabrielle M. Hobson et.al.|[2506.15892](https://arxiv.org/abs/2506.15892)|null|
+|**2025-06-21**|**Programmable-Room: Interactive Textured 3D Room Meshes Generation Empowered by Large Language Models**|Jihyun Kim et.al.|[2506.17707](https://arxiv.org/abs/2506.17707)|**[link](https://github.com/Jihyun0510/Programmable_Room)**|
+|**2025-06-19**|**Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details**|Zeqiang Lai et.al.|[2506.16504](https://arxiv.org/abs/2506.16504)|**[link](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)**|
+|**2025-06-18**|**Quantifying the influence of fault geometry via mesh morphing with applications to earthquake dynamic rupture and thermal models of subduction**|Gabrielle M. Hobson et.al.|[2506.15892](https://arxiv.org/abs/2506.15892)|**[link](https://github.com/MM4Geo/Mesh_Morphing_for_Geophysics)**|
 |**2025-12-30**|**A Geometric Multigrid Preconditioner for Discontinuous Galerkin Shifted Boundary Method**|Michal Wichrowski et.al.|[2506.12899](https://arxiv.org/abs/2506.12899)|null|
 |**2025-06-17**|**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**|Xinjie Wang et.al.|[2506.10600](https://arxiv.org/abs/2506.10600)|**[link](https://huggingface.co/spaces/HorizonRobotics/EmbodiedGen-Image-to-3D)**|
 |**2025-07-01**|**Edit360: 2D Image Edits to 3D Assets from Any Angle**|Junchao Huang et.al.|[2506.10507](https://arxiv.org/abs/2506.10507)|null|
